@@ -181,7 +181,7 @@ try {
     copy.querySelector("head").appendChild(style);
     if (label) {
       const meta = document.createElement("meta");
-      meta.name = "unslop-pass";
+      meta.name = "nexify-pass";
       meta.content = label;
       copy.querySelector("head").prepend(meta);
     }

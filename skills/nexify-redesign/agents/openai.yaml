@@ -1,4 +1,3 @@
 interface:
-  display_name: "Unslop"
-  short_description: "Turn vibecoded, AI-looking UI into a designed interface"
-  default_prompt: "Use $unslop on this screen so it stops looking AI-generated."
+  display_name: Nexify Redesign
+  short_description: Enterprise UI/UX design and code refactoring system for modern web products.

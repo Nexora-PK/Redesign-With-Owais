@@ -1,23 +1,23 @@
-# Nexify Redesign - Global Frontend Design Rules
+# Nexify Redesign: Frontend Design & Code Rules
 
-Apply these rules to every frontend design, UI development, HTML, CSS, Tailwind, React, and web screen task:
+Apply these universal design engineering rules to every web, UI, React, Tailwind, and HTML/CSS task:
 
-1. **Eliminate AI-Slop Tells:**
-   - NEVER use purple/indigo glows, floating blurred gradient blobs, or linear gradient text.
-   - NEVER put emoji in button labels, badges, or section headers (e.g. no '✨ New' or '🚀 Get Started').
-   - NEVER use uppercase tracked micro-labels (`tracking-widest uppercase text-xs`).
-   - Remove unnecessary cards-within-cards and decorative glassmorphism borders.
+1. **Eliminate AI Prototype Tells:**
+   - NEVER generate purple/indigo radial glows, blurred ambient gradient blobs, or linear gradient text.
+   - NEVER place emojis in buttons, badges, or headers.
+   - NEVER use uppercase tracked micro-labels (`uppercase tracking-widest text-[10px]`).
+   - Eliminate nested cards-within-cards and decorative glassmorphism layers.
 
-2. **Quiet Chrome, Focused Richness:**
-   - Keep the chrome (navigation, backgrounds, cards, borders, buttons) quiet, using tinted neutrals and at most ONE primary accent color.
-   - Reserve rich visual craft for 1-2 focal content moments (a rendered product asset, clean data chart, or real screenshot).
-   - Ensure headlines sit on calm space with ample contrast.
+2. **Enforce Quiet Chrome:**
+   - Keep page backgrounds, sidebars, cards, and navigation quiet and neutral (tinted darks or warm lights).
+   - Use at most ONE primary accent color across the entire interface.
+   - Reserve rich visual craft for 1–2 focal content moments.
 
-3. **Strict Design Pass Order:**
-   - **Pass 1: Spacing & Rhythm** (strict 4px/8px scale, calm generous padding, remove cramped margins).
-   - **Pass 2: Copy & Voice** (short, confident headlines; natural sentence case; zero corporate buzzwords).
-   - **Pass 3: Typography** (clear size hierarchy, generous line-heights, pairing editorial/sans deliberately).
-   - **Pass 4: Color** (tinted backgrounds, high text contrast, one intentional accent).
-   - **Pass 5: Details** (subtle 1px border tints, crisp shadows, remove rounded corner inflation).
+3. **Strict Redline Pass Order:**
+   - **Pass 1: Spacing & Rhythm** (strict 8-point spatial scale: 4px, 8px, 12px, 16px, 24px, 32px, 48px, 64px).
+   - **Pass 2: Copy & Voice** (short, confident value statements; natural sentence case; zero buzzwords).
+   - **Pass 3: Typography** (clear hierarchical scale, pairing characterful headlines with neutral body text).
+   - **Pass 4: Color & Contrast** (90% quiet neutrals, 10% intentional accent, WCAG AAA text contrast).
+   - **Pass 5: Precision Details** (1px subtle border tints, multi-layer crisp shadows, balanced border radii).
 
-4. For in-depth procedures, sign audits, RTL support, and code effects, refer to the `nexify-redesign` skill at `skills/nexify-redesign/SKILL.md`.
+4. Always output production-ready, clean, accessible code. Consult `skills/nexify-redesign/SKILL.md` for full implementation runbooks.

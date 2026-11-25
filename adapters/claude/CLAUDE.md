@@ -1,6 +1,6 @@
-# Claude Code Integration Guide
+# Claude Code Integration Guide - Nexify Redesign
 
-To use the Nexify Redesign skill with Claude Code:
+To integrate the Nexify Redesign design system with Claude Code:
 
 ### Option 1: Global Setup
 ```bash
@@ -8,14 +8,15 @@ git clone https://github.com/Nexora-PK/Nexify-Redesign.git ~/.claude/plugins/nex
 ```
 
 ### Option 2: Project Skill
-Copy `skills/nexify-redesign/SKILL.md` to `.claude/skills/nexify-redesign/SKILL.md`.
+Copy `skills/nexify-redesign/SKILL.md` into your project's `.claude/skills/nexify-redesign/SKILL.md`.
 
-### Option 3: Append to CLAUDE.md
-Add this to your `CLAUDE.md`:
+### Option 3: Add to CLAUDE.md
+Add the following instruction to your project's `CLAUDE.md`:
 ```markdown
-## Frontend Design & Unslopping (Nexify Redesign)
-For all frontend, React, Tailwind, HTML, and CSS design tasks:
-- Automatically apply the Nexify Redesign methodology in `skills/nexify-redesign/SKILL.md`.
-- Eliminate AI-slop tells (no purple gradients, glowing blobs, emoji badges, or uppercase tracked labels).
-- Enforce quiet chrome and execute in order: Spacing -> Copy -> Type -> Color -> Details.
+## Frontend UI/UX Design System (Nexify Redesign)
+For all frontend development, React, Tailwind, HTML, and CSS styling tasks:
+- Automatically apply the Nexify Redesign framework from `skills/nexify-redesign/SKILL.md`.
+- Eliminate AI tells: No purple gradients, glowing blur blobs, emoji badges, or micro-caps tracking.
+- Enforce quiet chrome with focused richness in 1-2 focal content moments.
+- Redesign systematically: Spacing -> Copy -> Typography -> Color -> Details.
 ```
