@@ -1,0 +1,11 @@
+{
+  "name": "nexify-redesign",
+  "displayName": "Nexify Redesign",
+  "description": "Transforms vibecoded, AI-looking UI into a distinctive, beautifully designed interface. Fixes spacing, typography, colors, layout, and removes AI tells across React, Tailwind, HTML, and CSS.",
+  "author": {
+    "name": "Nexora PK / Owais Kayani",
+    "url": "https://github.com/Nexora-PK"
+  },
+  "homepage": "https://github.com/Nexora-PK/Nexify-Redesign",
+  "repository": "https://github.com/Nexora-PK/Nexify-Redesign"
+}
