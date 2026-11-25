@@ -1,4 +1,4 @@
-# Nexify Redesign: CSS Elevation & Precision Effects
+# Redesign With Owais: CSS Elevation & Precision Effects
 
 ## 1. Precision 1px Borders
 Instead of solid bright borders or artificial glow outlines, use sub-alpha borders:

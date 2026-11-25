@@ -1,4 +1,4 @@
-# Nexify Redesign: Visual Anchors & Focal Moments
+# Redesign With Owais: Visual Anchors & Focal Moments
 
 A common failure of AI-generated design is lacking a clear visual focal point, or using abstract floating gradient blobs.
 

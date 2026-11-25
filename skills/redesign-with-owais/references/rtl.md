@@ -1,4 +1,4 @@
-# Nexify Redesign: Bidirectional Layout Guidelines (RTL)
+# Redesign With Owais: Bidirectional Layout Guidelines (RTL)
 
 For international interfaces in Arabic, Persian, Urdu, or Hebrew:
 

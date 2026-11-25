@@ -1,4 +1,4 @@
-# Nexify Redesign: Frontend Design & Code Rules
+# Redesign With Owais: Frontend Design & Code Rules
 
 Apply these universal design engineering rules to every web, UI, React, Tailwind, and HTML/CSS task:
 
@@ -20,4 +20,4 @@ Apply these universal design engineering rules to every web, UI, React, Tailwind
    - **Pass 4: Color & Contrast** (90% quiet neutrals, 10% intentional accent, WCAG AAA text contrast).
    - **Pass 5: Precision Details** (1px subtle border tints, multi-layer crisp shadows, balanced border radii).
 
-4. Always output production-ready, clean, accessible code. Consult `skills/nexify-redesign/SKILL.md` for full implementation runbooks.
+4. Always output production-ready, clean, accessible code. Consult `skills/redesign-with-owais/SKILL.md` for full implementation runbooks.

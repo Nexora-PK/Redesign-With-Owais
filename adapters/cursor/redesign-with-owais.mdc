@@ -1,10 +1,10 @@
 ---
-description: Nexify Redesign - Professional UI/UX design and code refactoring system
+description: Redesign With Owais - Professional UI/UX design and code refactoring system
 globs: *.html, *.tsx, *.jsx, *.vue, *.svelte, *.css, *.scss
 alwaysApply: false
 ---
 
-# Nexify Redesign: Frontend UI/UX Design Engineering System
+# Redesign With Owais: Frontend UI/UX Design Engineering System
 
 Apply these design principles to any frontend redesign, component creation, or UI cleanup:
 

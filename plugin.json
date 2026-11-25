@@ -1,17 +1,17 @@
 {
-  "name": "nexify-redesign",
-  "displayName": "Nexify Redesign - UI/UX Engineering System",
-  "version": "2.0.0",
-  "description": "Enterprise-grade UI/UX design and code refactoring system. Converts AI-generated, vibecoded prototypes into polished, human-crafted interfaces with quiet chrome, mathematical spacing, and authentic visual identity.",
+  "name": "redesign-with-owais",
+  "displayName": "Redesign With Owais",
+  "version": "1.0.0",
+  "description": "Enterprise-grade UI/UX design and code refactoring system by Owais Kayani. Converts AI-generated, vibecoded prototypes into polished, human-crafted interfaces with quiet chrome, mathematical spacing, and authentic visual identity.",
   "author": {
-    "name": "Nexora PK / Owais Kayani",
+    "name": "Owais Kayani",
     "url": "https://github.com/Nexora-PK"
   },
-  "license": "Proprietary - Copyright \u00a9 2026 Nexora PK. All Rights Reserved.",
-  "homepage": "https://github.com/Nexora-PK/Nexify-Redesign",
-  "repository": "https://github.com/Nexora-PK/Nexify-Redesign",
+  "license": "Proprietary - Free to install and use. Redistribution or re-uploading is strictly prohibited.",
+  "homepage": "https://github.com/Nexora-PK/Redesign-With-Owais",
+  "repository": "https://github.com/Nexora-PK/Redesign-With-Owais",
   "suggestedPrompts": [
-    "Redesign and elevate this frontend interface with Nexify Redesign",
+    "Redesign and elevate this frontend interface with Redesign With Owais",
     "Audit this UI for AI tells and refactor spacing, typography, and color architecture",
     "Convert this prototype into a production-grade, human-crafted SaaS screen"
   ]

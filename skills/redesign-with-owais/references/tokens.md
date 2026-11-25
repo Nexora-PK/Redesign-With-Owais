@@ -1,4 +1,4 @@
-# Nexify Redesign: Production Design Tokens
+# Redesign With Owais: Production Design Tokens
 
 ## 1. Spatial Rhythm Grid (8-Point System)
 - `space-1`: 4px (micro padding, icon gaps)

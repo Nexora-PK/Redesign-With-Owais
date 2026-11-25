@@ -1,4 +1,4 @@
-# Nexify Redesign - Enterprise UI/UX Engineering System
+# Redesign With Owais - Enterprise UI/UX Engineering System
 
 [![License: Proprietary](https://img.shields.io/badge/License-Proprietary%20|%20All%20Rights%20Reserved-red.svg)](LICENSE)
 [![Usage](https://img.shields.io/badge/Usage-Free%20to%20Install%20&%20Use-brightgreen.svg)](#license--ownership)
@@ -8,7 +8,7 @@ A high-performance design engineering plugin and skill system designed to transf
 
 ---
 
-## ⚡ What Nexify Redesign Does
+## ⚡ What Redesign With Owais Does
 
 - **Eliminates AI Tells:** Systematically removes purple gradient headlines, ambient glowing blur blobs, emoji badges, bloated cards, and micro-caps tracking.
 - **Enforces Quiet Chrome:** Keeps backgrounds, sidebars, cards, and buttons neutral and calm (tinted zincs/lights + 1 primary accent).
@@ -25,7 +25,7 @@ A high-performance design engineering plugin and skill system designed to transf
 ## 📂 Repository Structure
 
 ```text
-Nexify-Redesign/
+Redesign-With-Owais/
 ├── plugin.json                              # Universal plugin manifest
 ├── README.md                                # Setup & usage documentation
 ├── LICENSE                                  # Proprietary license terms
@@ -33,7 +33,7 @@ Nexify-Redesign/
 │   ├── plugin.json
 │   └── marketplace.json
 ├── skills/
-│   └── nexify-redesign/
+│   └── redesign-with-owais/
 │       ├── SKILL.md                         # Main skill with YAML frontmatter
 │       ├── references/                      # Heuristics, tokens, RTL, visual patterns
 │       └── scripts/                         # UI capture & audit scripts
@@ -41,11 +41,11 @@ Nexify-Redesign/
 │   └── AGENTS.md                            # Always-on baseline frontend rules
 └── adapters/
     ├── cursor/
-    │   └── nexify-redesign.mdc              # Cursor IDE rule (.cursor/rules/)
+    │   └── redesign-with-owais.mdc              # Cursor IDE rule (.cursor/rules/)
     ├── claude/
     │   └── CLAUDE.md                        # Claude Code configuration guide
     └── system-prompts/
-        └── nexify-redesign-prompt.txt       # System prompt for ChatGPT / Claude Web
+        └── redesign-with-owais-prompt.txt       # System prompt for ChatGPT / Claude Web
 ```
 
 ---
@@ -56,29 +56,29 @@ Nexify-Redesign/
 
 #### Global Installation (All Workspaces):
 ```powershell
-git clone https://github.com/Nexora-PK/Nexify-Redesign.git "$HOME\.gemini\config\plugins\nexify-redesign"
+git clone https://github.com/Nexora-PK/Redesign-With-Owais.git "$HOME\.gemini\config\plugins\redesign-with-owais"
 ```
 
 #### Project-Specific Installation:
 ```bash
 mkdir -p .agents/plugins
-git clone https://github.com/Nexora-PK/Nexify-Redesign.git .agents/plugins/nexify-redesign
+git clone https://github.com/Nexora-PK/Redesign-With-Owais.git .agents/plugins/redesign-with-owais
 ```
 
 ---
 
 ### 2. Claude Desktop App
-1. Download `Nexify-Redesign.zip`.
+1. Download `Redesign-With-Owais.zip`.
 2. In **Claude Desktop**, open **Plugins** from the left sidebar.
 3. Click **Add ▾** ➔ **Upload plugin**.
-4. Select `Nexify-Redesign.zip` and click **Upload**.
+4. Select `Redesign-With-Owais.zip` and click **Upload**.
 
 ---
 
 ### 3. Claude Code CLI
 ```powershell
-New-Item -ItemType Directory -Force -Path "$HOME\.claude\skills\nexify-redesign"
-Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Nexora-PK/Nexify-Redesign/main/skills/nexify-redesign/SKILL.md" -OutFile "$HOME\.claude\skills\nexify-redesign\SKILL.md"
+New-Item -ItemType Directory -Force -Path "$HOME\.claude\skills\redesign-with-owais"
+Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Nexora-PK/Redesign-With-Owais/main/skills/redesign-with-owais/SKILL.md" -OutFile "$HOME\.claude\skills\redesign-with-owais\SKILL.md"
 ```
 
 ---
@@ -87,20 +87,20 @@ Invoke-WebRequest -Uri "https://raw.githubusercontent.com/Nexora-PK/Nexify-Redes
 Copy the `.mdc` rule into your project's `.cursor/rules/` directory:
 ```bash
 mkdir -p .cursor/rules
-cp adapters/cursor/nexify-redesign.mdc .cursor/rules/nexify-redesign.mdc
+cp adapters/cursor/redesign-with-owais.mdc .cursor/rules/redesign-with-owais.mdc
 ```
 
 ---
 
 ### 5. ChatGPT / Custom GPTs / Claude.ai Projects
-* **Custom GPTs:** Upload `skills/nexify-redesign/SKILL.md` to **Knowledge** and paste `adapters/system-prompts/nexify-redesign-prompt.txt` into **Instructions**.
+* **Custom GPTs:** Upload `skills/redesign-with-owais/SKILL.md` to **Knowledge** and paste `adapters/system-prompts/redesign-with-owais-prompt.txt` into **Instructions**.
 * **Claude Projects:** Upload `SKILL.md` to Project Knowledge.
 
 ---
 
 ## 💡 Suggested Starter Prompts
 
-- *"Redesign and elevate this frontend screen with Nexify Redesign."*
+- *"Redesign and elevate this frontend screen with Redesign With Owais."*
 - *"Audit this UI for AI tells and refactor spacing, typography, and color architecture."*
 - *"Convert this prototype into a production-grade, human-crafted SaaS screen."*
 

@@ -1,8 +1,8 @@
-# Nexify Redesign: AI-Tell Diagnostic Heuristics
+# Redesign With Owais: AI-Tell Diagnostic Heuristics
 
 Scan code or visual screens against this comprehensive checklist to identify and eliminate prototype artifacts:
 
-| Category | AI-Generated Anti-Pattern | Nexify Redesign Standard |
+| Category | AI-Generated Anti-Pattern | Redesign With Owais Standard |
 | :--- | :--- | :--- |
 | **Color** | Violet/purple/indigo gradients on cards and text | Tinted zinc/neutral backgrounds with high-contrast solid text |
 | **Glows** | Heavy box-shadow glows (`shadow-purple-500/50`) | Subtle, layered ambient shadows (`shadow-sm` or `shadow-md`) |

@@ -1,12 +1,12 @@
 {
-  "name": "nexify-redesign",
-  "displayName": "Nexify Redesign",
-  "version": "2.0.0",
-  "description": "Enterprise-grade UI/UX design and code refactoring system. Converts AI-generated prototypes into human-crafted, production-grade interfaces.",
+  "name": "redesign-with-owais",
+  "displayName": "Redesign With Owais",
+  "description": "Enterprise-grade UI/UX design and code refactoring system by Owais Kayani.",
   "author": {
-    "name": "Nexora PK / Owais Kayani",
+    "name": "Owais Kayani",
     "url": "https://github.com/Nexora-PK"
   },
-  "homepage": "https://github.com/Nexora-PK/Nexify-Redesign",
-  "repository": "https://github.com/Nexora-PK/Nexify-Redesign"
+  "license": "Proprietary - Free to install and use. Redistribution or re-uploading is strictly prohibited.",
+  "homepage": "https://github.com/Nexora-PK/Redesign-With-Owais",
+  "repository": "https://github.com/Nexora-PK/Redesign-With-Owais"
 }

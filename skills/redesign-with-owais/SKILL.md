@@ -1,14 +1,14 @@
 ---
-name: nexify-redesign
+name: redesign-with-owais
 description: Enterprise UI/UX design and frontend code refactoring skill. Transforms AI-generated, generic, or vibecoded web interfaces into polished, distinct, human-crafted digital products. Identifies and eliminates AI design tells (purple glows, floating blur blobs, gradient text, emoji badges, micro-caps tracking), establishes strict 8pt spatial rhythm, engineers quiet chrome with focused visual richness, implements dual-typography hierarchy, and delivers production-ready React, Tailwind, HTML, and CSS.
 author: Nexora PK / Owais Kayani (https://github.com/Nexora-PK)
 license: Proprietary - Copyright © 2026 Nexora PK. All Rights Reserved.
-repository: https://github.com/Nexora-PK/Nexify-Redesign
+repository: https://github.com/Nexora-PK/Redesign-With-Owais
 ---
 
-# Nexify Redesign: Professional UI/UX Design & Engineering System
+# Redesign With Owais: Professional UI/UX Design & Engineering System
 
-Nexify Redesign is an advanced design engineering framework created by **Nexora PK**. It bridges the gap between rapid AI code generation and high-end human craft, turning raw prototypes, generic templates, and "vibecoded" interfaces into world-class digital products with authentic brand character.
+Redesign With Owais is an advanced design engineering framework created by **Nexora PK**. It bridges the gap between rapid AI code generation and high-end human craft, turning raw prototypes, generic templates, and "vibecoded" interfaces into world-class digital products with authentic brand character.
 
 ---
 
@@ -20,7 +20,7 @@ AI-generated interfaces fail in consistent, predictable patterns:
 - Every badge, button, or header contains an emoji.
 - Margins and paddings are arbitrary and inconsistent.
 
-**Nexify Redesign flips this dynamic:**
+**Redesign With Owais flips this dynamic:**
 1. **Quiet Chrome:** Navigation bars, card containers, page backgrounds, and interactive buttons are kept calm and restrained. They utilize tinted darks or warm lights with subtle 1px borders and at most ONE primary accent.
 2. **Focused Richness:** Visual craft and vibrant color are concentrated into 1–2 intentional focal moments (an interactive product preview, an authentic rendered asset, or a high-contrast data chart).
 3. **Intentional Hierarchy:** Every spacing interval, font size, contrast level, and micro-interaction is mathematically deliberate.
